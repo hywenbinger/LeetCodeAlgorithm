@@ -1,5 +1,7 @@
+package com.algorithm.problem
+
 /**
- * 两数之和：
+ * 两数之和
  *      https://leetcode-cn.com/problems/two-sum/
  *      https://www.cxyxiaowu.com/6840.html
  */
